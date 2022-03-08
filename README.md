@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1)
+[![MasterHead](https://tenor.com/view/hello-world-gif-18564330)
 <h1 align="center">Hi 👋, I'm Eman Khalaf</h1>
 <h3 align="center">A passionate University student from Palestine</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/810366526711864256/">
