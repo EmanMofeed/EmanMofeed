@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)
 <h1 align="center">Hi 👋, I'm Eman Khalaf</h1>
 <h3 align="center">A passionate University student from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/810366526711864256/">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanmofeed&label=Profile%20views&color=0e75b6&style=flat" alt="emanmofeed" /> </p>
 
